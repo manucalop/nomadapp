@@ -17,5 +17,7 @@ menu = st.sidebar.selectbox('Menu',
 
 if menu == 'Home':
     ft.home()
+elif menu == 'Travel':
+    ft.travel()
 
 

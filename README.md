@@ -1,5 +1,7 @@
 # Nomad App
 
+Access the app [here](https://nomadapp-akukb5qdcq-ew.a.run.app/).
+
 Launching Streamlit App:
 
 ```
